@@ -1,3 +1,6 @@
+# This is a practice program called "Take A Break" written for
+# Udacity course "Programming Foundations with Python"
+
 import time
 import webbrowser
 
