@@ -8,7 +8,7 @@ print("This program encourages you to take frequent breaks throughout the work d
 hours = input("Please input the number of hours you'll be working today: ")
 print("See you in two hours.")
 
-numberOfBreaks = hours/2
+numberOfBreaks = hours//2
 
 for x in xrange(0,numberOfBreaks):
     time.sleep(2*60*60)
